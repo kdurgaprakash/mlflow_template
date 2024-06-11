@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1718074017549
+current_stage: None
+description: ''
+last_updated_timestamp: 1718074017549
+name: test1
+run_id: ed1c01ca1df4426ca83b257b72c503df
+run_link: ''
+source: file:///Users/drikon/INTERVIEW/software/mlops/mlflow/mlflow_template/mlruns/311995110717457973/ed1c01ca1df4426ca83b257b72c503df/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/drikon/INTERVIEW/software/mlops/mlflow/mlflow_template/mlruns/311995110717457973/ed1c01ca1df4426ca83b257b72c503df/artifacts/model
+user_id: null
+version: 1

@@ -1,0 +1,6 @@
+artifact_location: file:///Users/drikon/INTERVIEW/software/mlops/mlflow/mlflow_template/mlruns/311995110717457973
+creation_time: 1718073817744
+experiment_id: '311995110717457973'
+last_update_time: 1718073817744
+lifecycle_stage: active
+name: Baseline Model

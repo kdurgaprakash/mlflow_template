@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/drikon/INTERVIEW/software/mlops/mlflow/mlflow_template/mlruns/311995110717457973/ed1c01ca1df4426ca83b257b72c503df/artifacts
+end_time: 1718073819243
+entry_point_name: ''
+experiment_id: '311995110717457973'
+lifecycle_stage: active
+run_id: ed1c01ca1df4426ca83b257b72c503df
+run_name: luminous-seal-271
+run_uuid: ed1c01ca1df4426ca83b257b72c503df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718073817820
+status: 3
+tags: []
+user_id: drikon
